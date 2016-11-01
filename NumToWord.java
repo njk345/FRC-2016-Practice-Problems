@@ -1,9 +1,7 @@
-//Nick Keirstead
-//This program takes an integer inputted by the user and prints the english representation of it
-
+//Oct 16, 2015
 import java.util.Scanner;
 
-public class keirsteadNumToWord {
+public class NumToWord {
 	public static final String[] units = {"", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"};
 
 	public static final String[] tens = {"", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"};

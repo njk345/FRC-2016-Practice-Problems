@@ -1,6 +1,7 @@
+//Oct 15, 2015
 import java.util.Scanner;
 
-public class decToBin {
+public class DecToBin {
   public static void main (String[] args) {
     Scanner s = new Scanner(System.in);
     System.out.print("Enter Base-10 Integer To Convert To Base-2: ");
@@ -32,7 +33,7 @@ public class decToBin {
 
   public static void printArray(int[] a) {
     for (int i : a) {
-      System.out.print(i + " ");
+      System.out.print(i);
     }
     System.out.print("\n");
   }
