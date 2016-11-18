@@ -1,5 +1,6 @@
+// Battery should only have charge and voltage.
 public class Battery {
-	private double capacity, voltage, charge;
+	private double capacity, voltage, charge; // Nice privacy control
 	public Battery(double capacity, double voltage) {
 		this.capacity = capacity;
 		this.voltage = voltage;

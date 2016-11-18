@@ -22,16 +22,20 @@ public class Odometry {
 	public static void turnRight90() {
 		setMotorsForTime(100, -100, 400);
 	}
+    // Correct
 	public static void driveCircle() {
 		//let it go for 10s
 		setMotorsForTime(20, 100, 10000);
 	}
+    // Correct
 	public static void driveSquare() {
 		for (int i = 0; i < 4; i++) {
 			setMotorsForTime(100, 100, 2000);
 			turnLeft90();
 		}
 	}
+    
+    // Please put a space between your "//"'s and your words
 	public static void driveSineWave() {
 		//d/dt sint = cost
 		//so velocity(t) = acos(bt)

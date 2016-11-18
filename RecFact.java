@@ -1,3 +1,6 @@
+// Correct. Nice work. Also handles the zero case which is great.
+//
+// You should improve the spacing in this file.
 import java.util.ArrayList;
 import java.util.Scanner;
 public class RecFact {

@@ -1,3 +1,6 @@
+// Correct. Nice use of abstract classes
+// Maybe space this file a bit better.
+// Should be a newline between your methods and you member vars.
 public abstract class Shape {
   public abstract double getPerimeter();
   public abstract double getArea();

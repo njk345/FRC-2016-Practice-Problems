@@ -1,3 +1,5 @@
+// Your indentation is messed up.
+// Probably copy paste, but fine for this problem.
 import java.awt.Graphics;  
  import java.awt.image.BufferedImage;  
  import java.util.ArrayList;  

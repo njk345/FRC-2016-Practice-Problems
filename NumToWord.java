@@ -1,6 +1,7 @@
 //Oct 16, 2015
 import java.util.Scanner;
 
+// Lol. LGTM. Assuming this works.
 public class NumToWord {
 	public static final String[] units = {"", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"};
 

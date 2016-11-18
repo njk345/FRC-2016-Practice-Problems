@@ -1,3 +1,4 @@
+// Correct. Nice work.
 public class Device {
 	private double current, voltage, power;
 	public Device(double current, double voltage) {

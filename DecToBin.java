@@ -1,6 +1,12 @@
-//Oct 15, 2015
+//Oct 15, 2015. We don't need the date.
 import java.util.Scanner;
 
+// Correct. Nice Work.
+// Nicely split up into constituent functions
+// May be the most concise out of the ones that didn't use the standard library.
+//
+// There is a much easier way to do this using the standard library.
+// It's just a couple of lines.
 public class DecToBin {
   public static void main (String[] args) {
     Scanner s = new Scanner(System.in);
